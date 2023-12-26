@@ -1,0 +1,4 @@
+qiskit==0.32.0
+dynex
+dimod
+numpy
