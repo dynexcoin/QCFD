@@ -3,7 +3,7 @@ Implementation of QC in Computational Fluid Dynamics (CFD) as QUBO/Ising Problem
 
 - [Documentation](https://github.com/dynexcoin/QCFD/blob/main/QCFD_Documentation.pdf)
 - [Video](https://github.com/dynexcoin/QCFD/raw/main/IMG_7574.MP4)
-- [Examples]()
+- [Examples](https://github.com/dynexcoin/QCFD/blob/main/QCFD_Examples.ipynb)
 
 ![Image](https://github.com/dynexcoin/QCFD/blob/main/imgs/4.png)
 
